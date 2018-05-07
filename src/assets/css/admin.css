@@ -1,0 +1,88 @@
+.hidden {
+    display: none!important;
+    visibility: hidden!important;
+}
+
+.header-button{
+    padding:10px 12px   !important;
+}
+
+.header-select{
+    background-color:#ddd; 
+}
+
+.inner-input-icon-small{
+    font-size: 20px !important;
+}
+
+.data-table  {
+    border: 1px solid #3c8dbc;
+}
+
+.data-table th {
+    background: #3c8dbc;
+    color: #fff;
+    border: 1px solid #3c8dbc;
+}
+
+.data-table-pagination {
+/*     background:#222d32; */
+    padding:10px 10px;
+}
+
+.el-pagination.is-background .el-pager li.active {
+
+    background: #3c8dbc;
+}
+
+.data-table-btn-icon  {
+    font-size: 20px !important;
+}
+
+.data-table-pagination .el-pagination__total{
+   /*  color:#fff */
+}
+
+.data-sub-table  {
+    border: 1px solid #48576a;
+}
+
+.data-sub-table th {
+    background: #48576a;
+    color: #95989d;
+    border: 1px solid #48576a;
+}
+
+.data-table-button{
+  
+}
+
+
+.el-form--inline .el-form-item__content {
+    display: inline-block;
+    vertical-align: top;
+  
+}
+
+.el-textarea {
+    display: inline-block;
+    width: 100%;
+    vertical-align: bottom;
+    font-size: 14px;
+}
+
+.tab-badge .el-badge__content{
+    margin-top: 10px;
+}
+
+.form-col-label{
+    margin-top:10px
+}
+
+.el-table__expanded-cell{
+    background: #ecf5ff
+}
+
+.el-transfer-panel{
+    border: 1px solid #3c8dbc
+}
